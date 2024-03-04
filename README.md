@@ -1,7 +1,7 @@
 # Wedding Planning Database Project
 
 ## Overview
-This project contains the SQL database system for a mock wedding planning company, WeddingEasy Hong Kong. It was developed as part of the AST20401 – Database Systems and Design course by Group 9.
+This project contains the SQL database system for a mock wedding planning company, WeddingEasy Hong Kong. It was developed as part of the AST20401 – Database Systems and Design course.
 
 ## Features
 - Customer management
